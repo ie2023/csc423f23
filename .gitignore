@@ -1,0 +1,6 @@
+# ignore all files in the directory node_modules:
+node_modules/
+# ignore all log files that I might use for testing
+*.log
+# ignore all files in any directory named temp/
+temp/
