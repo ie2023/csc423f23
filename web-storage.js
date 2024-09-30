@@ -1,3 +1,4 @@
+// web storage example
 const playerNameWidget      = document.getElementById("playerName");
 const difficultyLevelWidget = document.getElementById("difficultyLevel");
         
